@@ -4,11 +4,11 @@
 3. _Programme pour calculer le produit de deux matrices_ 
 4. _Programme pour inverser une chaine de caractere_ 
 5. _Programme qui compte les carateres dans une chaine de caractere_
-6. _Soit U(n) une suite d'entiers définie:_ \
-U(0)= 3 et U(1)= -4\
-U(n)= 2U(n-1)+ 3 U(n-2)
-   -  _Programme qui affiche la somme des 30 premiers termes de la suite U:_
-   -  _Programme qui affiche le 70 ième terme de la suite U(n) :_
+6. _Soit U<sub>n</sub> une suite d'entiers définie:_ \
+U<sub>n-1</sub>= 3 et U<sub>n-1</sub>= -4\
+U<sub>n</sub>= 2 U<sub>n-1</sub>+ 3 U<sub>n-2</sub>
+   -  _Programme qui affiche la somme des 30 premiers termes de la suite U_
+   -  _Programme qui affiche le 70 ième terme de la suite U_
 
 7. _Programme qui affiche la somme de 2 entiers saisis a et b en entrée_
 
