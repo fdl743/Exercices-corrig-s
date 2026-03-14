@@ -5,7 +5,7 @@
 4. _Programme pour inverser une chaine de caractere_ 
 5. _Programme qui compte les carateres dans une chaine de caractere_
 6. _Soit U<sub>n</sub> une suite d'entiers définie:_ \
-U<sub>n-1</sub>= 3 et U<sub>n-1</sub>= -4\
+U<sub>0</sub>= 3 et U<sub>1</sub>= -4\
 U<sub>n</sub>= 2 U<sub>n-1</sub>+ 3 U<sub>n-2</sub>
    -  _Programme qui affiche la somme des 30 premiers termes de la suite U_
    -  _Programme qui affiche le 70 ième terme de la suite U_
