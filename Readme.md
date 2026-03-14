@@ -1,5 +1,5 @@
 **Exercices** _( Implementation en c )_
-1. _Programme afficher les 25 premiers nombres des nombres premiers_
+1. _Programme pour afficher les 25 premiers nombres des nombres premiers_
 2. _Programme pour calculer le produit scalaire et somme de deux vecteurs_
 3. _Programme pour calculer le produit de deux matrices_ 
 4. _Programme pour inverser une chaine de caractere_ 
