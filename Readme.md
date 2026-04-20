@@ -11,4 +11,9 @@ U<sub>n</sub>= 2 U<sub>n-1</sub>+ 3 U<sub>n-2</sub>
    -  _Programme qui affiche le 70 ième terme de la suite U_
 
 7. _Programme qui affiche la somme de 2 entiers saisis a et b en entrée_
-
+8. _Création d'un programme de gestion de clients avec des options comme :_
+   - Afficher toutes les entrées
+   - Ajouter une entrée
+   - Supprimer une entrée
+   - Modifier une entrée
+   - Rechercher unc lient déja inscrit
